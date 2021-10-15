@@ -1,9 +1,12 @@
 body {
+    margin-left: auto;
+    margin-right: auto;
     user-select: none;
 }
 .pole{
 position: sticky;
-
+margin-left: auto;
+margin-right: auto;
 background-color: rgba(0, 0, 0, 0.884);
 border-radius: 67px;
 left: 725px;
@@ -13,7 +16,8 @@ height: 875px;
 }
 
 .pole1{
- 
+    margin-left: auto;
+    margin-right: auto;
 position: sticky;
 left: 745px;
 top: 181px;
@@ -22,6 +26,8 @@ height: 618px;
 }
 
 .secondLine {
+    margin-left: auto;
+    margin-right: auto;
 position: sticky;
 background-color: black;
 left: 0px;
@@ -35,6 +41,8 @@ overflow-y: auto;
 }
 
 .pole3 {
+    margin-left: auto;
+    margin-right: auto;
 position: sticky;
 left: 118,36px;
 top: 0px;
@@ -43,6 +51,8 @@ height: 500,43px;
 }
 
 .mainBg {
+    margin-left: auto;
+    margin-right: auto;
 position: sticky;
 align-items: center;
 display: grid;
